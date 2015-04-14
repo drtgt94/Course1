@@ -6,3 +6,9 @@ This is a test file
 *Bullet 1
 *Bullet 2
 *Bullet 3
+## This is a secondary heading
+### This is a tertiary Header
+* Bullet 1
+* Bullet 2
+* Bullet 3
+ 
